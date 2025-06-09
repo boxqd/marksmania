@@ -5,4 +5,6 @@ It's a simple target shooting game. You have 30 seconds to strike as many target
 Red targets award you 100 points, Blue targets 300 points, and Golden targets award you 500 points! Beware though, for
 as the Blue targets fall to the ground and the Golden ones teleport around! 
 
+Requires tkinter, PIL, pygame.
+
 I will soon upload a video of the gameplay :)
