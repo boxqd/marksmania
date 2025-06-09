@@ -7,4 +7,8 @@ as the Blue targets fall to the ground and the Golden ones teleport around!
 
 Requires tkinter, PIL, pygame.
 
-I will soon upload a video of the gameplay :)
+Wanna test it out? Here's the link!
+https://drive.google.com/file/d/1qUAtr1tkQgdEAPnPc7C00x5H-1LA0omr/view?usp=sharing
+
+Video of the gameplay:
+https://youtu.be/eGKBJCyVHiM
