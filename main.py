@@ -1,6 +1,6 @@
 '''MarksMania!! - A simple target shooting game using pygame and tkinter
 This game features different types of targets, a scoring system, and a timer. 
-Created by @lynlker (github.com/lynlker)'''
+Created by @boxqd (github.com/boxqd)'''
 
 import tkinter as tk
 from PIL import Image, ImageTk
