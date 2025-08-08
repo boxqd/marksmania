@@ -113,7 +113,7 @@ class MarksMania:
             "- The game lasts 30 seconds.\n"
             "- Try to score as many points as possible!\n"
             "\nGood luck!"
-            "\n Game by: @lynlker (github.com/lynlker)"
+            "\n Game by: @boxqd (github.com/boxqd)"
         )
         popup = tk.Toplevel(self.root)
         popup.title("Instructions")
